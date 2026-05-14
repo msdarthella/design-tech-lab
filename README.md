@@ -25,6 +25,10 @@ This space documents my exploration of digital design systems, reusable template
 - [Case study template](templates/case-study-template.md)
 - [Design system audit template](templates/design-system-audit-template.md)
 
+## Projects
+
+- [Digital Campaign System Audit](projects/digital-campaign-system-audit.md): A sample audit framework for reviewing campaign systems across web, email, and e-commerce touchpoints.
+
 ## Why I created this
 
 I created this repository to document how I think about scalable design systems, production workflows, and practical ways design can help teams move faster without sacrificing quality.
