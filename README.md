@@ -22,6 +22,7 @@ This space documents my exploration of digital design systems, reusable template
 - [What this repository is for](notes/what-this-repo-is-for.md)
 - [Learning log](notes/learning-log.md)
 - [Design systems glossary](design-systems/glossary.md)
+- [Case study template](templates/case-study-template.md)
 
 ## Why I created this
 
