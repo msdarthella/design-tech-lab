@@ -22,6 +22,7 @@ This space documents my exploration of digital design systems, reusable template
 - [Learning log](notes/learning-log.md)
 - [Design systems glossary](design-systems/glossary.md)
 - [Case study template](templates/case-study-template.md)
+- [Design system audit template](templates/design-system-audit-template.md)
 
 ## Why I created this
 
