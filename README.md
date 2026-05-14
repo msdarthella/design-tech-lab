@@ -28,6 +28,7 @@ This space documents my exploration of digital design systems, reusable template
 ## Projects
 
 - [Digital Campaign System Audit](projects/digital-campaign-system-audit.md): A sample audit framework for reviewing campaign systems across web, email, and e-commerce touchpoints.
+- [Figma Component Library Plan](projects/figma-component-library-plan.md): A planning framework for creating or improving a reusable component library for digital brand, web, email, and campaign design systems.
 
 ## Why I created this
 
