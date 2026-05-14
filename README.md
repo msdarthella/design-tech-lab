@@ -13,7 +13,6 @@ This space documents my exploration of digital design systems, reusable template
 - Web, email, and mobile experiences
 - Figma component libraries
 - Reusable campaign workflows
-- Tailwind CSS learning
 - Accessibility and design consistency
 - Creative production workflows
 
