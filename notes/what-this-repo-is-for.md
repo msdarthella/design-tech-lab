@@ -8,7 +8,7 @@ This repository is a place to document my learning and experiments at the inters
 - How reusable templates can improve campaign consistency
 - How accessibility and brand standards can work together
 - How designers can better understand front-end implementation
-- How tools like GitHub, Tailwind CSS, and documentation workflows can support design work
+- How tools like GitHub and documentation workflows can support design work
 
 ## How I plan to use it
 
