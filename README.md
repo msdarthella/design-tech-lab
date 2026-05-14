@@ -1,2 +1,29 @@
-# design-tech-lab
-Digital design systems, workflow experiments, and front-end learning from a Senior Visual &amp; Brand Designer.
+# Design Tech Lab
+
+A collection of digital design, brand system, workflow, and front-end learning experiments from a Senior Visual & Brand Designer.
+
+## About this repository
+
+This space documents my exploration of digital design systems, reusable templates, accessibility-minded design, and the connection between design and implementation.
+
+## Focus areas
+
+- Digital visual design
+- Brand systems
+- Web, email, and mobile experiences
+- Figma component libraries
+- Reusable campaign workflows
+- Tailwind CSS learning
+- Accessibility and design consistency
+- Creative production workflows
+
+## Why I created this
+
+I created this repository to document how I think about scalable design systems, production workflows, and practical ways design can help teams move faster without sacrificing quality.
+
+## Current learning goals
+
+- Build confidence using GitHub as a documentation and project space
+- Explore front-end basics through a designer’s lens
+- Practice organizing design and workflow ideas in a clear, reusable way
+- Connect visual design decisions to implementation considerations
