@@ -21,6 +21,7 @@ This space documents my exploration of digital design systems, reusable template
 - [What this repository is for](notes/what-this-repo-is-for.md)
 - [Design philosophy](notes/design-philosophy.md)
 - [Learning log](notes/learning-log.md)
+- [Roadmap](ROADMAP.md)
 - [Design systems glossary](design-systems/glossary.md)
 - [Case study template](templates/case-study-template.md)
 - [Design system audit template](templates/design-system-audit-template.md)
