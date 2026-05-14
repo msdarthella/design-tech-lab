@@ -17,6 +17,12 @@ This space documents my exploration of digital design systems, reusable template
 - Accessibility and design consistency
 - Creative production workflows
 
+## Repository guide
+
+- [What this repository is for](notes/what-this-repo-is-for.md)
+- [Learning log](notes/learning-log.md)
+- [Design systems glossary](design-systems/glossary.md)
+
 ## Why I created this
 
 I created this repository to document how I think about scalable design systems, production workflows, and practical ways design can help teams move faster without sacrificing quality.
